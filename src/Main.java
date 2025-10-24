@@ -5,7 +5,7 @@ public class Main {
         Scanner input = new Scanner(System.in);
 
         System.out.println("=== Program Latihan CodeLab 1 dan 2 ===");
-        System.out.print("Masukkan nama kamu: ");
+        System.out.print("Inputkan nama kamu: ");
         String nama = input.nextLine();
 
         System.out.print("Masukkan angka favorit kamu (1-5): ");
